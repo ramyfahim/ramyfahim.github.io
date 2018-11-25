@@ -8,11 +8,19 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'What art thou that usurp’st this time of night,
+       Together with that fair and warlike form
+       In which the majesty of buried Denmark
+       Did sometimes march? By heaven I charge thee speak.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Say first, for Heav’n hides nothing from thy view
+       Nor the deep Tract of Hell, say first what cause
+       Mov’d our Grand Parents in that happy State,
+       Favour’d of Heav’n so highly, to fall off
+       From their Creator, and transgress his Will
+       For one restraint, Lords of the World besides?',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'She had, while a very young girl, as soon as she had known him to be, in the event of her having no brother, the future baronet, meant to marry him, and her father had always meant that she should.'      
 };
 
 function status(statusText) {
