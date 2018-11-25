@@ -8,17 +8,12 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'What art thou that usurp’st this time of night,
-       Together with that fair and warlike form
-       In which the majesty of buried Denmark
-       Did sometimes march? By heaven I charge thee speak.',
+      'O that this too too solid flesh would melt,
+       Thaw, and resolve itself into a dew!.',
   'example2':
-      'Say first, for Heav’n hides nothing from thy view
-       Nor the deep Tract of Hell, say first what cause
-       Mov’d our Grand Parents in that happy State,
-       Favour’d of Heav’n so highly, to fall off
-       From their Creator, and transgress his Will
-       For one restraint, Lords of the World besides?',
+      'Th' infernal Serpent; he it was whose guile,
+       Stirred up with envy and revenge, deceived
+       The mother of mankind',
   'example3':
       'She had, while a very young girl, as soon as she had known him to be, in the event of her having no brother, the future baronet, meant to marry him, and her father had always meant that she should.'      
 };
