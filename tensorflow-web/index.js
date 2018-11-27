@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'O that this too too solid flesh would melt, Thaw, and resolve itself into a dew!.',
+      'O that this too too solid flesh would melt, Thaw, and resolve itself into a dew.',
   'example2':
-      'Th' infernal Serpent; he it was whose guile, Stirred up with envy and revenge, deceived The mother of mankind.',
+      'The infernal Serpent; he it was whose guile, Stirred up with envy and revenge, deceived The mother of mankind.',
   'example3':
       'She had, while a very young girl, as soon as she had known him to be, in the event of her having no brother, the future baronet, meant to marry him, and her father had always meant that she should.'      
 };
